@@ -1,0 +1,15 @@
+"C:\Program Files\IAR Systems\Embedded Workbench 9.2\arm\bin\armPROC.dll" 
+
+"C:\Program Files\IAR Systems\Embedded Workbench 9.2\arm\bin\armJLINK.dll" 
+
+"C:\Users\Aadi\OneDrive\Desktop\razor_sam3u2\firmware_ascii\iar_9_40_1\Debug\Exe\eie_ascii-01.out" 
+
+--plugin="C:\Program Files\IAR Systems\Embedded Workbench 9.2\arm\bin\armbat.dll" 
+
+--device_macro="C:\Program Files\IAR Systems\Embedded Workbench 9.2\arm/config/debugger/Microchip/SAM3U.dmac" 
+
+--flash_loader="C:\Program Files\IAR Systems\Embedded Workbench 9.2\arm/config/flashloader/Microchip/sam3u2/sam3u2-flash.board" 
+
+
+
+
